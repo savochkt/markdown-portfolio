@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+
+## My **technical skills**:
+
+### Programing Languages
+-C
+
+-Java
+
+### Assempling _PLC_ panels
